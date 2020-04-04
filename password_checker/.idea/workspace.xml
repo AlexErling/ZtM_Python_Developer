@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ece718db-8a93-4331-933b-d9f35c72d66e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZrpRcK9AIeXHjorLY2euya7RAm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="checkmypass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="password_checker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkmypass.py" />
+      <option name="PARAMETERS" value="hello password123" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.checkmypass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece718db-8a93-4331-933b-d9f35c72d66e" name="Default Changelist" comment="" />
+      <created>1585607059064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585607059064</updated>
+      <workItem from="1585607062843" duration="3659000" />
+      <workItem from="1585612548157" duration="2387000" />
+      <workItem from="1585614944263" duration="72000" />
+      <workItem from="1585615027541" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585614291720">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585614291720" />
+    <state width="881" height="277" key="GridCell.Tab.0.bottom" timestamp="1585614934660">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585614934660" />
+    <state width="881" height="277" key="GridCell.Tab.0.center" timestamp="1585614934657">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585614934657" />
+    <state width="881" height="277" key="GridCell.Tab.0.left" timestamp="1585614934656">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585614934656" />
+    <state width="881" height="277" key="GridCell.Tab.0.right" timestamp="1585614934657">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585614934657" />
+    <state x="67" y="184" key="SettingsEditor" timestamp="1585607391159">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="184" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585607391159" />
+    <state x="186" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585615027655">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="186" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585615027655" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/password_checker$checkmypass.coverage" NAME="checkmypass Coverage Results" MODIFIED="1585614510631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
