@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03768f37-d021-4bbc-be69-11d9c55b0bda" name="Default Changelist" comment="" />
+    <list default="true" id="03768f37-d021-4bbc-be69-11d9c55b0bda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ZxTLy79LhGMAuOjpaa1EsP9ZCF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,15 +31,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/templates" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/templates" />
     </key>
@@ -85,6 +92,9 @@
       <workItem from="1585862462293" duration="8954000" />
       <workItem from="1586015819069" duration="2578000" />
       <workItem from="1586018409348" duration="1097000" />
+      <workItem from="1586019963639" duration="62000" />
+      <workItem from="1586020034964" duration="917000" />
+      <workItem from="1586021163023" duration="29000" />
     </task>
     <servers />
   </component>
@@ -96,10 +106,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="67" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585780988331" />
-    <state x="293" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585780819046">
+    <state x="293" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586021175797">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="293" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585780819046" />
+    <state x="293" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586021175797" />
     <state width="831" height="278" key="GridCell.Tab.0.bottom" timestamp="1585882723856">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -120,10 +130,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="34" y="142" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585873208650" />
-    <state x="187" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586018479628">
+    <state x="187" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1586021163631">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="187" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586018479628" />
+    <state x="187" y="381" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1586021163631" />
     <state x="310" y="192" width="432" height="723" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585862474021">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

@@ -1,0 +1,35 @@
+[33mcommit 525831debc10b4e9dcf25e96362f10314d594be3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Alex Erling <alex.erling@gmail.com>
+Date:   Sun Apr 5 14:58:35 2020 -0400
+
+    Removed directory
+
+[33mcommit 4fec806e23c752336c11e9809b36b8a5aa097772[m
+Author: Alex Erling <alex.erling@gmail.com>
+Date:   Sun Apr 5 14:54:14 2020 -0400
+
+    Updates
+
+[33mcommit 49c541859c83a8937bb0cd7f8890665149569540[m
+Author: Alex Erling <alex.erling@gmail.com>
+Date:   Sun Apr 5 14:48:45 2020 -0400
+
+    Added Git Ignore
+
+[33mcommit 25d9ef3d5cf511ba7e9aee678275c2fe52f04b62[m
+Author: Alex Erling <alex.erling@gmail.com>
+Date:   Sun Apr 5 14:41:44 2020 -0400
+
+    Completed Course
+
+[33mcommit aeeb5b9bdb02560c597c138caa0afdac227381b5[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Alex Erling <alex.erling@gmail.com>
+Date:   Sat Apr 4 13:11:23 2020 -0400
+
+    Added requirements.txt
+
+[33mcommit 693496c03e2b12bcad1f9e36310555e32c1996bd[m
+Author: Alex Erling <alex.erling@gmail.com>
+Date:   Sat Apr 4 13:04:40 2020 -0400
+
+    First commit
